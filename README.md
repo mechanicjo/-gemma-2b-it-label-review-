@@ -1,4 +1,4 @@
-# -gemma-2b-it-label-review-
+# gemma-2b-it-label-review
 
 colab에서 실습 가능한 코드 파일
 
